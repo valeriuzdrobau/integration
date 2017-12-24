@@ -1,0 +1,13 @@
+application:
+  flexionApi:
+    baseUrl: 'http://sandbox.flexionmobile.com/javachallenge/rest/developer/'
+    paths:
+      buy: '/buy/'
+      consume: '/consume/'
+      getPurchases: '/all/'
+  funFlowers:
+    developers:
+      - dev201
+      - dev202
+      - dev203
+      - dev204
